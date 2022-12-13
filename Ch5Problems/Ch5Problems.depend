@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1670940470 source:c:\users\apatrick\desktop\camgian software\c++\program design\ch5problems\ch5p1.cpp
+
+1670940687 source:c:\users\apatrick\desktop\camgian software\c++\program design\ch5problems\ch5p2.cpp
+	<iostream>
+	<iomanip>
+
